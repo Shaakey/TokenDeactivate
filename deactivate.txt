@@ -1,2 +1,3 @@
 TOKEN 1 | OTQ3MTcyMjQxMzQxMjg0MzUy.YhpY5Q.6MQhhuG_D0yzAEftTZXPI7woCGY | discord.gg/scamalerts
 TOKEN | big monkey | discord.gg/scamalerts
+TOKEN | test | discord.gg/scamalerts
